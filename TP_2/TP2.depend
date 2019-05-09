@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1538723825 source:c:\users\gonza\desktop\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1538724770 c:\users\gonza\desktop\tp2\tp2\arrayemployees.h
+
+1538723367 source:c:\users\gonza\desktop\tp2\tp2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538772848 source:d:\tp2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1538772468 d:\tp2\tp2\arrayemployees.h
+
+1538773054 source:d:\tp2\tp2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538841786 source:i:\tp_2\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1538841756 i:\tp_2\tp2\arrayemployees.h
+
+1538839602 source:i:\tp_2\tp2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1538943747 source:c:\users\gonza\desktop\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1538892041 c:\users\gonza\desktop\tp_2\arrayemployees.h
+
+1538951082 source:c:\users\gonza\desktop\tp_2\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557294648 source:c:\users\disco de prueba\desktop\tp_2ok\arrayemployees.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1557289300 c:\users\disco de prueba\desktop\tp_2ok\arrayemployees.h
+
+1557294761 source:c:\users\disco de prueba\desktop\tp_2ok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
